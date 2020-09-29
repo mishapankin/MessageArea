@@ -1,0 +1,12 @@
+.formula {
+    display: flex;
+    flex-direction: column;
+}
+
+.formula__text_area {
+    resize: none;
+    width: 100%;
+    min-height: 100%;
+    border: none;
+    padding: 10px;
+}
